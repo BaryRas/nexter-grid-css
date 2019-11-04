@@ -40,4 +40,10 @@
     margin-left: auto; // without margin-right/left, this is display in the left
     text-align: center;
     width: 70%;
+
+    a {
+        color: $color-grey-light-1;
+        font-weight: 400;
+        text-decoration: none; 
+    }
 }
